@@ -176,5 +176,5 @@ def num_of_coincidances(similar_papers_idxs:list,original_paper_idx:int,topics):
         #val += val
         count+=val
         #print(val)
-    print(count)
+    #print(count)
     return count
